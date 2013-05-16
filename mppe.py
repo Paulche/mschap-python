@@ -1,4 +1,4 @@
-from core.lib.mschap import mschap
+from mschap import mschap
 import sha,md5
 import random
 
